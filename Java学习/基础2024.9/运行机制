@@ -1,0 +1,4 @@
+1.xxx.java———————(编译javac xxx.java)——————>xxx.class——————(运行java xxx)——————>JVM for Anything
+  其中.java为源文件  .class为字节码文件  JVM为各种设备的java虚拟机
+  
+2.JDK=JRE+JVM  JRE就是负责编译的，JVM负责运行
